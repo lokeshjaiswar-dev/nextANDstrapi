@@ -9,7 +9,7 @@ const allowedMediaTypes = [
   'application/vnd.openxmlformats-officedocument.*',
   'text/plain',
   'text/csv',
-  'My name is lo'
+  'My name '
 ];
 
 const deniedExecutableTypes = [
