@@ -8,8 +8,7 @@ const allowedMediaTypes = [
   'application/msword',
   'application/vnd.openxmlformats-officedocument.*',
   'text/plain',
-  'text/csv',
-  'My  '
+  'text/csv'
 ];
 
 const deniedExecutableTypes = [
