@@ -16,6 +16,9 @@ export interface BlocksHeroSection extends Struct.ComponentSchema {
 
 
 
+
+
+
 export interface BlocksInfoBlock extends Struct.ComponentSchema {
   collectionName: 'components_blocks_info_blocks';
   info: {
